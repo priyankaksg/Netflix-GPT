@@ -4,6 +4,16 @@
 - Configured tailwindcss 
 - Header
 - Login form
+- sign up form
+- Routing
+- Form validation
+- useRef Hook
+- Deploying our app to production
+- create sign up user Account
+- Implement sign In user API
+- Created Redux Store with userSlice
+- Implemented Sign Out feature
+- Update Profile
 
 
 # Features
