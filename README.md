@@ -28,7 +28,10 @@
 - Fetch data for trailer video
 - Update store with trailer video data
 - Embedded the youtube video and make it autoplay and mute it
-- 
+- Built the Secondary container
+- Built the movie list
+- Built the Movie cards
+- TMDB image cdn url
 
 
 - Main container
